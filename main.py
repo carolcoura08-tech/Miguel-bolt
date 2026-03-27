@@ -8,10 +8,11 @@ TRÊS MODOS:
   - ASSISTENTE: anotações, lembretes, tarefas, ideias, tudo
 
 Replit/Render Secrets:
-    TELEGRAM_TOKEN — token do @CarimboMiguelbot 8609919578:AAEy6JJtDfrYo8Fue5iFDC7tmmwjONbwJ5g
-    CAROL_TELEGRAM_ID — seu ID numéricob 6362690475
+    TELEGRAM_TOKEN — @CarimboMiguelbot 8609919578:AAEy6JJtDfrYo8Fue5iFDC7tmmwjONbwJ5g
+    CAROL_TELEGRAM_ID — 6362690475
     WHATSAPP_LINK — https://wa.me/5531992948n22
-    GEMINI_API_KEY — chave Google Gemini (grátis)
+    GEMINI_API_KEY → Value: AIzaSyAzQ7Ue38y8etHFhyokCr3FjpjDwz--3Xc
+    
 """
 
 import os
